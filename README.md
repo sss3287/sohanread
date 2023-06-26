@@ -1,7 +1,5 @@
 <div align="center">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&background=0E111670&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritish;I'm+a+Student+and+Aspiring+Software+Developer+from+Dubai+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BF756&background=FF24BC00&width=435&lines=Hi+there+!+Welcome+to+my++github)](https://git.io/typing-svg)   <h1>Hi there, I'm <a href="https://sohansaimbhi.github.io">sohan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm <a href="https://sohansaimbhi.github.io">sohan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
