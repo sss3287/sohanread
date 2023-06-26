@@ -82,7 +82,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://github.com/sss3287/sohanread/blob/34df2d1ec9c26aa0317ee1eb7fef025a5ae9cf94/code-coding.gif" />
    </p>
    
    
