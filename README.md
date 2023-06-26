@@ -88,9 +88,9 @@
    
 <br />
 
-<p align="center">Made with ❤️ </p>
 
-<h1 align='center'>⚡️<i>Unleash your coding superpowers!</i>⚡️</h1>
+
+<h3 align='center'>⚡️<i>Unleash your coding superpowers!</i>⚡️</h3>
 
 </p>
 
